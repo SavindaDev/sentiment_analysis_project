@@ -1,3 +1,3 @@
-🧠 Sentiment Analysis of Book Reviews
+# 🧠 Sentiment Analysis of Book Reviews
 
 This module performs sentiment analysis on book reviews using a comparative evaluation of six transformer-based models: XLNet, BERT, DistilBERT, ALBERT, RoBERTa, and ELECTRA. Each model is fine-tuned to classify review text into sentiment categories (positive, negative, neutral), with results used to enrich user profiles in a hybrid recommendation system. The output sentiment scores serve as additional signals in collaborative and content-based filtering, improving recommendation quality, addressing data sparsity, and enabling more emotionally aligned book suggestions.
